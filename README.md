@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SMACS0723
 - 👀 I’m interested in big data.
 - 🌱 I’m currently learning Python, SQL Server, SPSS, R, etc.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wmao945@aucklanduni.ac.nz
+- 📫 How to reach me mao974304914@gmail.com
 
 <!---
 SMACS0723/SMACS0723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
